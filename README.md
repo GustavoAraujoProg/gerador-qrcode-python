@@ -2,7 +2,6 @@
 
 Projeto simples criado para gerar um QR Code a partir de um texto ou link.
 
-## Instalação
 # Para ultilziar a biblioteca, instale no terminal ultizando esse comando?
 pip install "qrcode[pil]"
 
